@@ -4,7 +4,7 @@ Here we’re going to use our Panel server.  Remember you're also using this to 
 
 Let's start by going to your individual webpage at `yourName.panel.uwe.ac.uk`. 
 
-To get to the backend administration pages we just append `:2082` to the web address.
+To get to the backend administration pages we just append `:2083` to the web address.
 
 Sign in with your cPanel username and password.
 
